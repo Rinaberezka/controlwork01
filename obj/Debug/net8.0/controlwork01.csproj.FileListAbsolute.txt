@@ -1,0 +1,14 @@
+C:\controlwork01\bin\Debug\net8.0\controlwork01.exe
+C:\controlwork01\bin\Debug\net8.0\controlwork01.deps.json
+C:\controlwork01\bin\Debug\net8.0\controlwork01.runtimeconfig.json
+C:\controlwork01\bin\Debug\net8.0\controlwork01.dll
+C:\controlwork01\bin\Debug\net8.0\controlwork01.pdb
+C:\controlwork01\obj\Debug\net8.0\controlwork01.GeneratedMSBuildEditorConfig.editorconfig
+C:\controlwork01\obj\Debug\net8.0\controlwork01.AssemblyInfoInputs.cache
+C:\controlwork01\obj\Debug\net8.0\controlwork01.AssemblyInfo.cs
+C:\controlwork01\obj\Debug\net8.0\controlwork01.csproj.CoreCompileInputs.cache
+C:\controlwork01\obj\Debug\net8.0\controlwork01.dll
+C:\controlwork01\obj\Debug\net8.0\refint\controlwork01.dll
+C:\controlwork01\obj\Debug\net8.0\controlwork01.pdb
+C:\controlwork01\obj\Debug\net8.0\controlwork01.genruntimeconfig.cache
+C:\controlwork01\obj\Debug\net8.0\ref\controlwork01.dll
